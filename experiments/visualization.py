@@ -138,12 +138,15 @@ def plot_all_convergence_grid(
         if "sphere" in prob_name or "ackley" in prob_name:
             ax.set_yscale("log")
 
-    # Masquer le 8e sous-graphe inutile et y placer la légende globale
-    axes[-1].axis("off")
+    # Masquer les sous-graphes inutilisés et y placer la légende globale
+    for extra_idx in range(len(problems), len(axes)):
+        axes[extra_idx].axis("off")
     handles, labels = axes[0].get_legend_handles_labels()
-    axes[-1].legend(handles, labels, loc="center", fontsize=11, framealpha=0.9)
+    legend_idx = len(problems) if len(problems) < len(axes) else -1
+    axes[legend_idx].legend(handles, labels, loc="center", fontsize=11, framealpha=0.9)
 
-    fig.suptitle("Courbes de convergence moyennes (30 runs indépendants appariés)", fontsize=14, y=0.98)
+    n_runs = campaign_data.get("metadata", {}).get("n_runs", 30)
+    fig.suptitle(f"Courbes de convergence moyennes ({n_runs} runs indépendants appariés)", fontsize=14, y=0.98)
     fig.tight_layout()
     grid_path = os.path.join(output_dir, "convergence_grid_all_problems.png")
     fig.savefig(grid_path)
@@ -218,7 +221,8 @@ def plot_strategy_dynamics_and_gap(
     axes[2].grid(True, linestyle=":", alpha=0.5)
     axes[2].legend(loc="upper right")
 
-    fig.suptitle(f"Dynamique évolutive et convergence vers l'équilibre de Nash — {problem_name} (30 runs)",
+    n_runs = campaign_data.get("metadata", {}).get("n_runs", 30)
+    fig.suptitle(f"Dynamique évolutive et convergence vers l'équilibre de Nash — {problem_name} ({n_runs} runs)",
                  fontsize=13, y=0.98)
     fig.tight_layout()
     out_path = os.path.join(output_dir, f"strategies_and_gap_{problem_name}.png")
@@ -236,6 +240,7 @@ def plot_mean_payoff_matrix(
     output_dir: str = "results/figures",
     n_runs: int = 5,
     seed_base: int = 42,
+    max_gen: int = 50,
 ) -> str:
     """
     Calcule et trace la heatmap de la matrice de gains commune U moyenne
@@ -262,7 +267,7 @@ def plot_mean_payoff_matrix(
                 init_pop = np.array([prob.random_solution(init_rng) for _ in range(50)], dtype=float)
             else:
                 init_pop = init_rng.uniform(prob.lb, prob.ub, size=(50, prob.dim))
-            model = GANash(prob, pop_size=50, max_gen=200, seed=s)
+            model = GANash(prob, pop_size=50, max_gen=max_gen, seed=s)
             res = model.run(initial_pop=init_pop)
             U_mats.append(np.array(res["final_payoff_matrix"]))
 
@@ -417,24 +422,35 @@ def generate_all_visualizations(
         out_single = os.path.join(figures_dir, f"convergence_{prob_name}.png")
         plot_single_convergence(prob_name, agg_prob, out_single)
         generated_files.append(out_single)
-    print(f"  [OK] 7 courbes de convergence individuelles générées.")
+    print(f"  [OK] {len(campaign_data['aggregated'])} courbes de convergence individuelles générées.")
 
     # 3. Évolution des stratégies et Nash gap
-    for p in ["ackley-10", "knapsack-100", "rastrigin-10"]:
+    target_gap_probs = [p for p in ["ackley-10", "knapsack-100", "rastrigin-10", "knapsack-50"] if p in campaign_data["aggregated"]]
+    if not target_gap_probs:
+        target_gap_probs = list(campaign_data["aggregated"].keys())
+    for p in target_gap_probs:
         gap_path = plot_strategy_dynamics_and_gap(campaign_data, p, figures_dir)
         generated_files.append(gap_path)
         print(f"  [OK] Dynamique de stratégies & Nash gap ({p}) : {gap_path}")
 
     # 4. Heatmaps de la matrice de gains commune U
-    heat_path = plot_mean_payoff_matrix(["ackley-10", "knapsack-100"], figures_dir)
+    heat_probs = [p for p in ["ackley-10", "knapsack-100"] if p in campaign_data["aggregated"]]
+    if not heat_probs:
+        heat_probs = list(campaign_data["aggregated"].keys())[:2]
+    max_gen_heat = campaign_data.get("metadata", {}).get("max_gen", 50)
+    heat_path = plot_mean_payoff_matrix(heat_probs, figures_dir, max_gen=max_gen_heat)
     generated_files.append(heat_path)
     print(f"  [OK] Heatmaps matrice de gains U : {heat_path}")
 
     # 5. Étude de sensibilité multi-paramétrique
     sens_csv = os.path.join(results_dir, "sensitivity_results.csv")
-    sens_path = plot_sensitivity_analysis(sens_csv, figures_dir)
-    generated_files.append(sens_path)
-    print(f"  [OK] Étude de sensibilité : {sens_path}")
+    if os.path.exists(sens_csv) and os.path.getsize(sens_csv) > 50:
+        try:
+            sens_path = plot_sensitivity_analysis(sens_csv, figures_dir)
+            generated_files.append(sens_path)
+            print(f"  [OK] Étude de sensibilité : {sens_path}")
+        except Exception as e:
+            print(f"  [!] Note: Tracé de sensibilité ignoré ({e})")
 
     print("=" * 65)
     print(f"  Total : {len(generated_files)} figures générées dans '{figures_dir}'.")

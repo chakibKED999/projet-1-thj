@@ -170,6 +170,41 @@ def run_single_experiment_task(
     return out
 
 
+def run_experiment(
+    algo_cls,
+    problem: BaseProblem,
+    n_runs: int = 30,
+    pop_size: int = 50,
+    max_gen: int = 200,
+    seed_base: int = 42,
+    **algo_kwargs,
+) -> Dict[str, Any]:
+    """
+    Exécute n_runs indépendants d'une classe d'algorithme sur une instance de problème.
+    Retourne un résumé statistique (moyenne, écart-type, meilleur).
+    """
+    bests = []
+    for r in range(n_runs):
+        seed = seed_base + r
+        algo = algo_cls(
+            problem=problem,
+            pop_size=pop_size,
+            max_gen=max_gen,
+            seed=seed,
+            **algo_kwargs,
+        )
+        res = algo.run()
+        bests.append(float(res["best_fitness"]))
+    bests_arr = np.array(bests)
+    return {
+        "best_fitnesses": bests_arr,
+        "mean": float(np.mean(bests_arr)),
+        "std": float(np.std(bests_arr)),
+        "best": float(np.min(bests_arr)),
+        "median": float(np.median(bests_arr)),
+    }
+
+
 # ===========================================================================
 # Campagne Complète
 # ===========================================================================

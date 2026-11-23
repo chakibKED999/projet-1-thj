@@ -1,0 +1,567 @@
+﻿PDF-1.7
+
+1 0 obj
+/Type/Catalog/Pages 2 0 R/Lang(fr) /StructTreeRoot 24 0 R/MarkInfo/Marked true/Metadata 73 0 R/ViewerPreferences 74 0 R
+endobj
+2 0 obj
+/Type/Pages/Count 2/Kids 3 0 R 21 0 R 
+endobj
+3 0 obj
+/Type/Page/Parent 2 0 R/Resources/Font/F1 5 0 R/F2 12 0 R/F3 14 0 R/F4 19 0 R/ExtGState/GS10 10 0 R/GS11 11 0 R/ProcSet/PDF/Text/ImageB/ImageC/ImageI /MediaBox 0 0 595.32 841.92 /Contents 4 0 R/Group/Type/Group/S/Transparency/CS/DeviceRGB/Tabs/S/StructParents 0
+endobj
+4 0 obj
+/Filter/FlateDecode/Length 3462
+stream
+xK74zK	MAWbxR(SqgzL)/Oo_vwbSrZYNL_.oObrz)1933	OXx
+//1gaFro6s/OHdRh7V
+G	rgkTriONo	_Z:Kca
+;gxU/QwFatFO	d3Q(PReYtY6pPtLXQdY7rqzePfL5H)zmq1q/LBob2qS,X	SErm8nWiwv:oJ.JFGnjMLerLOF
+D(/JFBdyc(qVKzAknT,eOUnIS
+cCkt8mKd8D)Vf5MoRXxRMEQj5qq0lOlKcc1	LqAk0GYnwhUf,fc50Z1
+i7imT3
+hH7Ndsz,xAg_4ywq90xIz;
+d1HHpGwus)Up/TNq0;H.F),oFjnM_v3_DP,A78bCHb:J_C0:Rd-mIiU3S64	-MG GI-L;zjiX.Eh	V/NBUc;(.GZB(R8M.wPaPvbsmzPzSCT3(iMY9X)Kt)Y7R	c))W3/VVRkH1Lb WFoGZAkpmez027oZtr ,jwr -EWxoz,m-nRh/QP980g,m8bV(nlejr()U;bH54-DT(d	LcTLLE5sT5F6vb	d(Ix_jPClj9dQI RqTp, w0Ud5TV	qu	w6)4HV7w7bjNa6SXZNmDhDKovtaMN)WomV.V4Z40KyRu7,)f8ItZXM.V,CcQ,;rsT0XGXlFAU/goY3uhN-L-:t mYk61NxQRXItdlUzxB2I,m-x.8V0fGT22_NUQ
+)98YW3C9,QEuF	hpICCTdxb)_wc_vX,X7Dc7xMsdrAvWc):LhA.slEpfgL:.3r7iU7UqF;UvhuP57,TNumu)X6XlvdgAEn5MZMi/9I/P3kRNKU2s.3yrR8IvD)Tv
+J	932R
+Fk:jZowvcgO/1/HF8Nlrljc:rZ_k,KS
+n4l4He;krdzwk/.L9E4nNMS;GWTkqf5(3AMFGo;Tkr8oDs48Mdqd	h3KM/ksXsZY,,k8yM	5W82N
+J93W85Wr,lmDy7qTiG9R9,O/X):,VyzeUDQA:3 QeRt5ZVy:cFDziy-fv18VZD_-/u 
+endstream
+endobj
+5 0 obj
+/Type/Font/Subtype/Type0/BaseFont/TimesNewRomanPS-BoldMT/Encoding/Identity-H/DescendantFonts 6 0 R/ToUnicode 65 0 R
+endobj
+6 0 obj
+ 7 0 R 
+endobj
+7 0 obj
+/BaseFont/TimesNewRomanPS-BoldMT/Subtype/CIDFontType2/Type/Font/CIDToGIDMap/Identity/DW 1000/CIDSystemInfo 8 0 R/FontDescriptor 9 0 R/W 67 0 R
+endobj
+8 0 obj
+/Ordering(Identity) /Registry(Adobe) /Supplement 0
+endobj
+9 0 obj
+/Type/FontDescriptor/FontName/TimesNewRomanPS-BoldMT/Flags 32/ItalicAngle 0/Ascent 891/Descent -216/CapHeight 677/AvgWidth 427/MaxWidth 2558/FontWeight 700/XHeight 250/Leading 42/StemV 42/FontBBox -558 -216 2000 677 /FontFile2 66 0 R
+endobj
+10 0 obj
+/Type/ExtGState/BM/Normal/ca 1
+endobj
+11 0 obj
+/Type/ExtGState/BM/Normal/CA 1
+endobj
+12 0 obj
+/Type/Font/Subtype/TrueType/Name/F2/BaseFont/TimesNewRomanPS-BoldMT/Encoding/WinAnsiEncoding/FontDescriptor 13 0 R/FirstChar 32/LastChar 32/Widths 68 0 R
+endobj
+13 0 obj
+/Type/FontDescriptor/FontName/TimesNewRomanPS-BoldMT/Flags 32/ItalicAngle 0/Ascent 891/Descent -216/CapHeight 677/AvgWidth 427/MaxWidth 2558/FontWeight 700/XHeight 250/Leading 42/StemV 42/FontBBox -558 -216 2000 677 
+endobj
+14 0 obj
+/Type/Font/Subtype/Type0/BaseFont/TimesNewRomanPSMT/Encoding/Identity-H/DescendantFonts 15 0 R/ToUnicode 69 0 R
+endobj
+15 0 obj
+ 16 0 R 
+endobj
+16 0 obj
+/BaseFont/TimesNewRomanPSMT/Subtype/CIDFontType2/Type/Font/CIDToGIDMap/Identity/DW 1000/CIDSystemInfo 17 0 R/FontDescriptor 18 0 R/W 71 0 R
+endobj
+17 0 obj
+/Ordering(Identity) /Registry(Adobe) /Supplement 0
+endobj
+18 0 obj
+/Type/FontDescriptor/FontName/TimesNewRomanPSMT/Flags 32/ItalicAngle 0/Ascent 891/Descent -216/CapHeight 693/AvgWidth 401/MaxWidth 2614/FontWeight 400/XHeight 250/Leading 42/StemV 40/FontBBox -568 -216 2046 693 /FontFile2 70 0 R
+endobj
+19 0 obj
+/Type/Font/Subtype/TrueType/Name/F4/BaseFont/TimesNewRomanPSMT/Encoding/WinAnsiEncoding/FontDescriptor 20 0 R/FirstChar 32/LastChar 32/Widths 72 0 R
+endobj
+20 0 obj
+/Type/FontDescriptor/FontName/TimesNewRomanPSMT/Flags 32/ItalicAngle 0/Ascent 891/Descent -216/CapHeight 693/AvgWidth 401/MaxWidth 2614/FontWeight 400/XHeight 250/Leading 42/StemV 40/FontBBox -568 -216 2046 693 
+endobj
+21 0 obj
+/Type/Page/Parent 2 0 R/Resources/Font/F3 14 0 R/F4 19 0 R/F1 5 0 R/F2 12 0 R/ExtGState/GS10 10 0 R/GS11 11 0 R/ProcSet/PDF/Text/ImageB/ImageC/ImageI /MediaBox 0 0 595.32 841.92 /Contents 22 0 R/Group/Type/Group/S/Transparency/CS/DeviceRGB/Tabs/S/StructParents 1
+endobj
+22 0 obj
+/Filter/FlateDecode/Length 1110
+stream
+xXMFJ1	BeIQuUWUv:EWyoad_h093 1Ipj:)9T56)AfzhFdz;IahDdStr3M-aD7:9edxlT	EN	0m0bpW	mq:RHr:fBG3ClzqdtLFV)79mZ75Igp7DHIc_B/ncegV,QKSfELd9dW y42Q:mC _g-bZCy,M
+4cbyvjL)69:/mlBQCn/6glK/YICszvW	Jw/6i(f)lh;5QiIdKY  xGLND(u7-	3LrlaOZYyr t1cX5tSKFx:6EGcn5lqYJFmS-YPo9gV7kl3k1DL,wtWrYmO:GIf
+WhMtOF-oZfnvC:V	e
+endstream
+endobj
+23 0 obj
+/Author(TRETEC) /Creator(Microsoft Word 2016) /CreationDate(D:202611091618420100) /ModDate(D:202611091618420100) /Producer(Microsoft Word 2016) 
+endobj
+31 0 obj
+/Type/ObjStm/N 40/First 297/Filter/FlateDecode/Length 652
+stream
+xVMO08vDUHBmBNWyyScUSEZ5J6mIUe-iOr1T2C	6qC9/x
+
+)GJMrdJWd0HbQHXXii-1HzlEO4605yWK1oQ,qz1_95StNq):LGYr/  ,  L  l 
+J
+
+
+
+plqTGpLpsVep00HV1bXaUXVbYeU,X;;;;uq i7zAm
+,3z;uV(fqHNbWKy9m
+CNsJ_g71A7miXn8uiimRmvtS4Yt8Z
+endstream
+endobj
+65 0 obj
+/Filter/FlateDecode/Length 322
+stream
+xRj0tLRnWNRHQQJlpQZZpTJ)hkCOAYFw_lJJ1sByu43ZHlONzXFGqcvN(vZ6xq6CHM;DWkQG82:ApBki4Z8Nr3kE
+endstream
+endobj
+66 0 obj
+/Filter/FlateDecode/Length 29900/Length1 76056
+stream
+x	xlKdG,qc;qc	)Y,	Xksf9sH1ylpqWbjk/MwEVhsgQ8s;x_TYve5ZnIy.m8rw7cju/K;:s_COuI,OzrKJup)P0t7KQAn36	DTH0Xr-ubDQq:)IcSX/_/,qf98MVdyIG9xTtEY.W,qvio1s3q._/1Ab  GA_c	4 1Ab 1Ab 1AbtPlg 1P-IaLV /;H-L.C.lv_LHBggmwQAb a7K5,A_alXlfhnXklS2UVLjC5GggW_
+2:P3L(s89;Si8s0-_e)O,-)/,9nfefXRSI	hJWwy3:6lTlgkPhSDM)y:xVXVnF_)(evKH.PjEa1KwTSRHkZhZWkfruQTF	allzPa	wzXWqk)gJ-.uW7f)s6/uw7gp4zMkCLVtbj0k:KlTZ.-LcxEdJIQYKG4zrh/jmbF5DgtWZj(xn7_)XKrdCfmWBBOvr2Nsb1q8sns,-gdcbM0Er)eiNQ)zaXUl67v
+G
+;mgr/6wwef9,ohIIZ)TrkiRBk:(kmCWi7WBRoS	(m,hMmjikPqCaQzzP6YTCL,TVXSa.k)Vv 2		0QDYKTCBB(Cxo-sUZsss86W)OV9nCDBMP8Ax36aX,Isj4_P P)y
+U94	
+FwpRN(	DHJ1HaHQg0	6DPhRD)C2X9bf,ACtnoPTVPZmvmeK	V-BDpHT0N3aW:p0lcEknWg;Te2D/TPH1bCu,iSFP2:wa,hr)8r	i/vE0QQo-HGLe jc.;9v97y7z	 EPCU:OXNAVC09ZXh5 ByMAm)6jB:VQ53;:XyoajpW:c/-F6;s;QCJkEX;CTvaDs,
+Idl A n64RgNrujZViL4
+;K(PxbGIlltClLuKr3TDfXY t8_slqt n n(PUTbSSTVuRS	jmH(IzCdE(wPuixmH)99(819vcAAehK2zzCmHiR(RhDDYnnDeYQPZ(FdkVJ(THWJHNEx:zn;C)qdu/O	MB	.N	Y(UR/BWm
+_F_VTWc
+TKCdKeoOrz)PMMMdCu
+COK)LtWXL0j2dVk Xj878.4AAx;w,d_K3VrwtttT64F;AQPmElk0wwvWA)W-V/W7iWCsznJORKjs_jAhs1,FnxtQ,Sc)ZRmKz9AweO60/lX.ZgYAt,;rmw;a-qnrmKau;uI.(,YxUReU(YzLuyig(IJ_zJu99jRi44JhhR82TgSA)KSdke:204_:HMm10_DoM	RzIsknlk
+Sy1ZW9Yelkut)gmIV76TAjj52Qd(5RQ/:nq.xiqnTQrqRWp)h.x	MD)-B57ffKWw-
+ nr mW5ScM6rcXMXXXMeYuPm5Dt:-jl- ; zD.dCRl;D6jXZV)xhS:E
+Z2UJ5z.uk- UDxYfaNe.R OCqP
+6FCbCY6.72etaXtUQJhkKV4xNW0G7rB
+0K3Qp	A;uZA 94bSl.96B3yNo36l1lDYc904DLhMO;1k:9r-wJ3aN0p	bJajHr(y1rNBIbAa,,l-8rq6e6ZK(_	zgIx2IxG0r1;Fr1ZFkn7F6JG.
+G/
+6c8xUOJBjxvWDZO2dO3LS.rqkig0BgFUgyv../Mccx0bYhi9-unr BrJoiF;quFFHqd rOPk)_rcD)2y8Ivs9BNP4/79tLfUl-x.SQ;5QzRyJ.ga/w_N(OhIandBnry:5ypNigL/xutkI,u7MT	Ruy8MUajzMOz6RfWOVOSxO_yxvj5lty bs;t/,eBx
+FvsiQM3/qpOwwR7I	
+/U;f0WhEUOcOeGlwX28F/l:2H	ZlG0d.YxLEjh Cht8WF_Uk,_F,Z
+h2AIsLBO58FIF8
+nw8gosvzG8hwrSWpvkP.H(6El1S
+8	dY3dd	xOgP/a( Q/P-bz9r
+TbY:dd79N		ON/
+YPMReiK(b4oaSSHBp4IujnJiDvJKIjqyY))wnC4BxizZE:3UPMBR	X2KD2iIIjbI)4lvI4TNL	iI:jS.Jm81N66WAiI_kCNKH,QMu8.rK	9dgoNWWbmJPb EnitYVLS)dgS3SDK5Z)9L:6MdvMRT105b7I2
+fn2PlG.:Vc4	dRmWu5R9s5cR1heZH;b.laDl/l(h_Ei4ez
+1hZbNINPjh67ceQY2:uuDivYE3tuiwoUt:RVBSXim9;SHdE24ihe:O25hfgmIr39V4,KS(HNNFdCik7aSS,iR-n,4NsFa
+v:o:JqyNlxD69_tx)UEESW-UpNKJ.5lPLsX9Mis9WB4onhJ.9Ylw)s6c
+ofs71GkB2-24KMKl18-:55)ZxZtX/S.30fqOXd2d-(4Szw/c5:FvI(Gn4H_8Wu3TxLFR7jp6th2PrKL2(bJY
+OA--IpScwny/_m4Z:x;v-	Rp8R/rn/2-;Ujdgkll9hh3LY)Rf5Q(oSBSuIJJbI0.QQjmcjBsehJq9:srJrjrZr8IHr38c;9DwmR	IVd(8tYW;5WJvVUwiK)qVHtNgwaYHRqQqoJ8:
+-;w:-.W:b_RmGx/k26fjvgezT3	yYTmex-mTgI3F4Ya;S(N)(	rhsb(sYnmjSRiJgkxy3X
+(LEHx,Fqu1dA(6Cd::Gdc3.c	quWL:8UYZdPUfjG3M3wJ	fK3FENZUp:f9M
+qB6cGcGuv6nHzFfKTvJQoF)rI;i;t3nW8vxVKSEM-NvtF/9H /CxB0(IXjk-zA_-Z
+d0PdyTc25,umY9h;-1g325_qc.4dn0zdvHdgQpc)ZOuqkoMeQAhN(tJTb_JW6NUub6sJAd2AtuDS)TRQsx6TPP-/)2	t.vB5Q(ukp/qkF2Uap_;;cBdK6szf3IlEEn9y.t40 L0;9y,D)BFH	.HAFjc00h/ k/((UcK:x)bSZJP
+	AVt-/)Bw985Ap-uchy:4rQ7IF0Feb/9fypo/1zh_L:	,Vq_G_/_twnoA_kD_cqTnjBsDzElEOGN8ZIq((MEL K/6wfxG	pgG2QKpGs9Q8	wHpy2IVhi5)9.HD4r1t;HcrCMO,B77wa(arx9B
+CXI2L2h:(;BPJLHFFt(JGwGhZQZejgp1TZ91pPUTWoYWMg/glKFf/cS3DB-vTzJxEp/2hgU2eBa:A857t:q_utfM3OtrtyctowNwask.wtmwz5Onp6dQ3oT8z0z/2jJRvNsi0 L9HoP--JDMvw8MUlsp6s1VM5COLS:Lnw(IO_RXWIn	)j-BC_c:hkZSA0a3VzO:;eO6Fv7
+wUO)1E;Zu_3hWz.			GjC5/.vBhfBwSol )xE5oqpOf83ycrESeIaJp
+G(MLMwDpkjoNlfuNvjPRqsxZVOLzZJDxUZWKcK6q9upsy1ms_:.56SoZyh7Ysr	Rfcp_uMdehQee-.xl/ov_._Ux2dpxXzY:	
+/9EBA(:d:X;b5KOP
+)d2BwYXM-ENl0iQKywdmaetQ-;yDR9wY6jXw(YTCHdD.Gdegh2OGh.e8o4cmHtIJF
+hKva3I.MY8_M	V)z52Ngve_D)siZVo I4V/C95dIHDiT,1:QrGGO.jfwXTrVsg
+j5yhW_q7WpV-vkkWS
+_wwQBDUhqE)-hWHgg,26S1euoCVlnAEtHXw
+6cJ9gv6WDChfezbE4 ifaBaer	/4EYBBM	2v6;P1dQYE6uT-V2/_tn
+K 0/2KY	FjD(sYyYAYMZ:C9
+m0dF5.QHxDrwAMs
+5KJHhLB6ZSIbRDKyhLFFn(qEjXMpP9qxGNnjg5Wj):	unCzUNrl/YT;Cx-fc)roGb-yZq.a0Nu	hAD UqgerfyTPFd503ksJWN0Z0
+0(Y_9Gtd8RqejZdeMa9TMrhbRmMYSLNV2pchkW9CdkokY 3daH5Vl 91)4p.12wDHlzqUUe2Mg5bWVVhjB_n7Y_ZWmKkGmcRyhGbUO5KrP hGvDFtHrZ	w6:MuZ7gXSMs7,.pm6gv;YRJp6jc1JK9M)hsyskPPdNcDNevLjes4D,EA,NlLv	ZZwKGv
+u8nx mJZ3hNC3xVrhZukzDcu5un-i_(pB-Zp4R1B4P  DEtHD	Av
+ ,)R_9HUJB6S,XxRSlV(;jkPO /ZL6EH.4ee V
+Y2
+jsfplbUeBWAicC8b1KMGK)bN.u,fyxDwcGbGcwX
+S,)Mv.O)4rUaj5d.m9X(i.N0mfZHz(Iq	q0xEutg7.,Wok6_
+NY.jPbYh6N8XgsXlno45So7
+F7qAH
+hdu).wumtu39Zp3yEsiz.uCiTr:hDN2.H2oxYh)RHejyI9),cV6 zOP D TvsU FSA 
+bCTThE
+MUhBOxZpTior ORzH6VXGOubJGNm0)QTzEEPo
+xO(1c7BOKKwF6rz4z2;zs9pgDkF_3n2s
+jkYbeU5-FeRRIB5tgw,Yt3hXlL4RD(Hwr)S
+E2aI(HDcXbz2L9G1nLpWd3:f-PGQcOhZ,H9oPK_jyud,YdyLeKs5cbI1Xg1Za_ZefBDl-VY8NvGP3anR9	)YSWt6F	yRL3ZjIjg,g49FR_RGrcWwJBxmLc0xjBw.w.jW77JTLd3w,MnCsuX E(.vGCRbSresLngx/DJHVxFDp/PnBLYe,_WTOI)gKi5IiniMcrJ3mXoqqYcHXp)gf(.Wj4sH98-_I6q_WZjb_KMB,cwd (gzXeRh3FNS0/XyEHDN	Q(dr(jVJkZyZJy:ym hw3SqyCnU;TDFD(Bm	Si0VI05fh435:z7Jfeg8RzzD(tqfoQy	5TAWW
+g/uZe
+6YOaLVl/2TJ6rlBq;)wQeJS7QEYM1TAOyy-Ly./WP2TPRyGJ2oC-Nq
+qHqY/qL5Rakp
+008Wfut52O2,pl:s-c	w-3(,rzIm:387ExKK_n,xdYT-TZtV4MiZGB1Nqia-n,4ZpDb3oK1lxD,ww/.qF8XMG0HvNpML9wNVCJ
+LT  pb7ZdmP7T3VaB;/iu;_LKg).O:O6YkcxvK-C2pzN ;m2KHjU6YK(
+,MMhv4v4fu4t4t4w4fuQJ-)bMVm:ljg3r2,YdlPP8vP(ISSWmdhmkXS,QoSyo 1OdS-doS.tDH	9,w:)1Px-M18(g9e:,LygyD8hBo.BIhCIMUVMdKF(0gCE2E4Cd
+5y2q
+6;UoOE,FjX_	IJYCx9T2lkswAs7VstTGQ-kIvqTKFwQpxR._O:z4,0sCU(_vX7wbTJIlAr4b
+,VKZ .Y/YzDR.upZAk-/U),YqQEV(4F/s/(cfGdFDAAPteQvTDfUWkx30g2LqQUWsSHTjUtp	GL(6en(Cx	t61AgMGCStCS0SAOxPDt,m438r0DGOd/2	BTqM:L7dW5B6J6BF-/tsLJc	w,4J:2v3wPmLmWN3uk;J_5haRgKzgoz1KZhGGGwtYj5dQWLdmX(ad.NH vzE3(DTCnsW6J7FB0gC D(2qe4ULt5-bhLYUWMi:8w:wG;IpY_P/w7(fhx	AU	5hgnPXf0:O_vUKAx24DX07VrXbDKb)uBB6e)tx3W:YhAl0RT.ztt::NPp	VImbFICxQXewh_Qxwpq1HePHO2K:DC(FmjG k1u1r5)rHMjhpE:6E;LV1QSq:b_sph.
+VOrdIV8flo
+GKl;y 6yHTyF8T32vkwloGYZUYhmbn2)C96dyz	dqfKlBZ__2jm;(Y7oT/fhysTy30EtH8:.sdJgdM_lBTtCrXrq:;:;PxQ)tgu(FytgJgLgLhFq8
+sA(.C,:E-lmzOkUzMQok55WsmbT t82/,e .20-4-lzJNbROTCWs_yl9o/:r,IslB.GmRbC/(He4Vtg6PYc4D3zX1t
+2lhW_T,dEtx5zqYvbr/NrBIlsx6E_3hGb1XoT:OhMG2W:mtP_ZmFv	AM5M6Y9f2	SN372q FlXUMLljuuOO	83ibSiaLySO6VCXKTBn6gF,
+i1/hdlkV2kEP8v:7tuzKsN(fcW-(tsmCd3V3;8Q4/7oS1qccFu_o4zglSp0c	sdpf;XLTzOFFA64Y.558(,b4kL8faVXp(.MNudoLkn7aEVC0Xuzbdb5VLy.pmMe6kfLmc55leqV99.Gw:WAc0e8qsnKOq	x1S6H UT4Np4apT6nu1UwVEFNglFkqT8)d1,N_:Y-UkUW9u5YyZQ
+dSc.tlnHGmOUZUdLKMQ	(w-6sWl;GFXT;n:jJs7iucbNaoOuUW ;uadn:SjWlb)F/6,2ZN83kdPk6Gy3if3gdFo4ruuzDF7ucmyzH2r3CL)SCq	0r88g30/nfQ(_hM.//yVg/3y4Ilf4-b/6AU-AF2dG2q;KAM t4P3oXY6NHRdujgjF6ot2yqDCZKGbaz
+7bN9FUGCcsDM	p.IoILTt/IAutwl462mmGWnMmf4v5dhgu-)voPK1T1W;boiS-Ud ,FNOD/91/Wz 3(4n.pZUa5Lxnwa(Ay8so
+6Jr8bpknkEbP5u2fK  dSLn:XKlHlHD(G/qRok;xSrmGZwDS1(-22IVBWaUUMf/0akIFHpnmPOOH.hEcn,_pt5hh		fvV4fwb4S-kS/csEen6zubFmE1WeCWh1mmzBVYUKDq0BXeIZUvN54:_4_qN27EaSAK.3P.56W656fhKqlx.tk)NQ/47Zo3UjDQ-JHIKo-IIa,-b0Fl;4gJ R2ZYqTOf
+To7G_yp36cTGSCStH,nbJgj(HEh0CQfCSKsCFhTzRBrhvZFdL;)aY;cXpQn -v99Mu7I ;U/ 1K,.Tz.OTCO	-I:wT.:_(3sQ,n6f1FAF0uuPd Q334L831DRYy.c3K	c;
+VQ7YGNIOUo-(zTzAVE/Yu2Vkbqk1. rMNtCY	fw5sZ_mWnts_kM.AI4Z:hHqCLiy14JjQeUbRHM 6UC0xhof:G3XG0zhQu5337:GYUhOQB lR8ObpGl9:SH-.MUoMnoMOetWm5MWkOOM7G/79CMT2X-OwV
+Vq0605HK:9ys32tN/MKyMM-dhKcq ;;OulOHzbdpWX9
+nGw7yB;S7)qV5d8lqk2eK7lX)AR_	AX6 -MRD2,i9YDZ;9h76y7c8j:wVZIwKmkCDq7VUscl8	T-8Mscv8:qFd9m2yv/IEyDmtT-Vthh(G/Ax;QX(63Gya3n1QA
+qdKgLdZ)I;Y0Bjbp)hcUGOjpwd_jk6iCbNgXjbS_Vn2
+P(e3ZGGQ58:l 9:nDw9WHILw(DLFFVTi5;8zgD12e-MB65nR
+A3ykM3vVW
+0LsigzrMLkkmmzWE88I8q;NgB:xmKx3juJssb8S1Uoq,z:80kitKhDIF,/jW6KGoG)bBkyv,UOW03j_dq/NdmMPO7R8uVAL; _:-VDhaXRTH.D g)/8,Mu-mLo,(57l7l.X2APMBuoK8AtAbx/5:
+1f
+
+PK.57)ztHeb1b3nd:H-1R_2CZzAJOX,_G
+_3nmYX:u6P6EBiw:pdNO7u;D7
+i4_,EU:rGa_5IYTMRRyj6hjw,rCZnyzxSazID;NrZNi9
+)-xrZNi9-rZNi9-wj_rZNRhxN,d)5OG_D37f_trzO,rZNi9Z0Fz74eEeXb2DN2BIO2FWV,a-QJFyF1/0aDVOUna5ANs2E)6P3V.2i(xaW2Ca5o1
+k _;(
+QXHK,_KD	/XKepOHAVM2IFaY
+MJ1zZTBhaare6vP
+i0)
+HTLJCaijOSQaSYQIi
+OS04-Nz(2LykjKS/
+_CYohf4CKN/I oWSpWq7-i
+vB:9PQGzgsgQHivuBewBWqtxh)-wRb)R2QKc9
+vS	_jhmBW;	w RVxG3ahDeRJiSmC1mrXTbchJUo/k/Bu,,rJ1(hBx9iFi)xJ9JRZJB;R,iG(.44hpJiOQ-M6A.JwR3YsgufLtE5B4;c:CujKYUjmTdsU H9PJcTImRwo sfTXiT4)/
+vex)j;.vkru
+ky.ZUUZwh9uUUiyR3E_,JTU5pM ),8F2cIYU-s_U
+dYq2E-f;soQ3J9BsOsk1ZEOTaYTq0aVm/kmTKWPZ,kR1JDdL7w.eU;,nA/;Yjq._K_,iTkSu
+W;e/swsUiZnVzwfhj;r
+SZ6Rp)qHj-hG8	ZAX-D _bU-uPn/GOHj;RIzEr7y8K8	TgoVhk1h9(O1O7 ;D8GT4xWVim)6zc(G6PI(u3ZbTzWSzhMKTKFPk9E5N	f8GUJFAKxf3(v0JZiGz2CLI20;Gk.Etvv8-xVQE,e8dt_sJZ,:kCZi7
+F-N-ZnDzAH6l-BQpk;d;,11u82J5B66hVmMvXWhsEF-ov_;_fF7.AaLs4v:KiFqrSwhthm7g4MnAww:atNyapkz05:J2ImREqKc.lgvB
+0k72-u2PZn/fy(:b_OX;sWsoH(;/KK;aCo
+v:rKg29h
+f-6qtF3N:bY;dGQpmN;Yqb.MpY9sTnzudDBm;t(jz7oUxCu4LMgZ8kp	NEYrkvQoRvXe3e:CnBH7ihjevyhNB7YVjVZ(/CfyZyVi40fJfyNb
+LTIdt:cSEJi-V9UQcZ,JTaekX)M4YadTt0W5
+XBS5RaLU5:jSUCrBf
+s:1Hp/TKLtUI(;AR3nHNBOixjjzrxz;UmLgFx
+1H(U,/P9LRrrR	rc8M
+IuQWIyosyOxr;NNgC_DBhb_ZIJKOHO)	:IQyYpIHCHJJWYSyto-MRiRzx)icn  COR4ONvKAR6KQ,s	o_1E77Gs5)_7FgrgrbwdORY;k);3ggF1Rgr ZuyTW75zI4:7zY7Hqd5U_z6pmW5_cWpGUAgPBkGdkg3cp	
+endstream
+endobj
+67 0 obj
+ 0 778  3 250  29 333  36 722 667 722 722 667 611  48 944  50 778 611  55 667  68 500 556 444 556 444 333  75 556 278 333  79 278 833 556 500 556 556 444 389 333 556 500  91 500 500  112 444  
+endobj
+68 0 obj
+ 250 
+endobj
+69 0 obj
+/Filter/FlateDecode/Length 408
+stream
+xSMohXM	KRen1b-/)2XUR90HG),Ibi1cVR)3utm)mRfJ QUF;
+mY1_D ltGsd_)H9_Rtc3HD6XAn;w/QOAx/Ja,pp/ClIyS2DjFmIMZihjAFti 
+endstream
+endobj
+70 0 obj
+/Filter/FlateDecode/Length 47699/Length1 102172
+stream
+x	dud2			dvH 7XjAQHd:DkhZofi99wAVVsiCWfqWymFm-ZjEx,fK Zq;4;)SE/quZr_9CjbcBRFCmoy-86EmtmeKOwM C
+m8qv5	z_6f:ZOfL8Kv)m(Tq8rrr2V(Qz:YtlQ:.i
+-p9_DyuFWH_KP_:v(pHO viZP:wS-6Do9d0t,
+)(Ay.mosulolkGyORIz1(/J	C0o0aWALu3aC0aC0aC08PaaCWPRqmZ,RH4N)4vMO
+i0/4PuRJM)B()NSSr3hPt8fUW rgBVco_7aC09RC(Q4xDTKi5K;hF)ztqc3lV NQ	M44__4nv6gcgvZ46ZiZEtqJZ(s,SBXh1dE9sGQE(aSNvuLZbt--:F7y/wuW._tEoi;vTOc
+.;2DVkC24:xKjJrRXsL)2hTEpF/d8LyG	6/43Xd9o672mr-LCzCkS-mBnGEr5vU42GYKDVuGD/1-9Lp(8hWQnYVhLLkfldoh;QFlvIOEqeuE61bRuV_uhBJFGca.OM
+Wm8PkzRK5YPXcQ-uZJ3G9110xJ,Eey4;lO/4KtNH(9qZsumfGm(P2u,d 54	3mH2b,-Uj:EWClj/cS,1N
+QE0/NX7Ue.J8u05	UBaS.uiKpXUs.Ubt: DWEoUELtuy,LK.MsykAEem(CSi:nSw:gzMT
+e3T0xckZEhMf8c9PxYBk4f9H2yFcx1GDAe33K7riFe,KBsz(,JNEm-m6NfcR78xGXHyiCj.2VyyOo:G66RIAGrVxLF91LVdQW6bJTj4w:mjrTS
+e	/kbolq/64G5utu9.:a3r4cy
+i	pWRaZ,8IgnvadT2g5J-eBF4DywhVWysz
+Rv8:K(ZP1HmX,l3T bA1mQBfHHwROuGMQ0BOx_RCG1AYiOELb/MEO5DRIPVnjfI(ln/TqfJ_/Sp_ oAG9f6tRnep;wtORJzzDzDzRZsfMKDGvy5mR7n9q8Z1zrj2(w1BDm4mK1JJzR8Dfih:0XTDzPLeDbVUrYKY6z7nG:MNP3	zN)
+JGi5Vws5FCSI3gAmjdk3u9Nl,;a..8yCOVN;Y9;:d,AYAVZesN_iS:4
+zcN6JleVpPscxcDQbQxj6k4;4	JQ44NQLvMLHINhjzjm5JLlCTHOP9jb0vtw;wooWL-9D
+.r3PAHZlzej
+.KbJz2	y)P
+,U.2cAZsVC rhUf1J;JvbBDdSSl0q(3niw:czcZ9:Z0n49VZXG9ch1Wgd;MYQ,MHPg0Q3(n 3KSUKC_qfxQjJ/jKUpog;aJ:1nE56xLUM65I4W-,O u1mR/WKHW/owWTrvm62iCiXf6Y3xM(NKJg5f0kuTYEIStv9ZSv8Cxd.0plHh);YO/5-Ue445/_:ZoP7Kuj-FOckmYmvPZYYlkW7zlJUU5UUuvELKm92B_gJUVIVTaJU_X 2C(W,ioohdhdMkUwPeSPw:ZCwN;CwlgauZZw4yqiKIuOxK0Ysw82Jv7Fa69FbV-4Q/TQJM;GUWwDwLwJt9:Zku6vt-3Rm9HgeVxz52xh(yeui1Y(Pn,Uio5sBbjKrJbpTgtOTE_vjw1tH09v:.(LYLF4i,JsiDdj:
+7)xFBccH-IR/68UfOiE5UnVlgThDpY60V2dKYegN-rXz kb-bzxSqhlJBcqzU5Q1cKbqHhAMzQ ee4elKAB4ihEqd8:Ut-u(lOhtiyY/FTs	4vzmrDPjyO_p(Cij,GgkS-)-21llwR(oinzf	,eGo,/Fc;Fxa(0_DpQjW6Ou7-XY;vYoLoSbv/sa4Cy/e/lG(vbQgD3gNxyNbA/Om0TdhfqtxfidMlnfs/Iv(5csCx6/DOxijGxQgW
+W2lR(7)wUPgunn	N_SA;wQdfb:;XXKfC,MX1n (	wy(U(7p/n7mN6P_OuJzTFpse6ny,L
+jcw8
+oMl4n	; eVOi	6335,-WlufPRGxK1o/	vyX)eHIm-DUwtafPEjnW25_gcVKMcIDoF/J9Tr9	mXW	W8jeV-QLPMT0x5XWTKu)yXc_fauKykgqxBME26A;X)CGVAKM;N9wlHPD0aIypglh
+qse8Sd3w,/nW4za7ExsjwC7DwpBOnwp;C8)7.vo7qYSFog(NWp5qq)cT_Pgb02JJvpuO5rMHt)lWgku
+3Nox8ABQBX0fkD
+3z
+OD:cPeIVhXec437,veW071aHsI	Q.Q()dgrJ8DjnOW(R/gDCKAHsGEiNz o2E(ILZF,vefk/8ub)8EdFc Df0itbVfQjpkRRFlzmhwoOq9xAAjj wODQODtRRQve:Mwjh)5OKytnH8:qo_ATyH,nmc,qc0N1sOun9NMxcdfI9_sO,MN9y/oozx5KjU0eaN,B_
+gBt9AA-uSW7ceKKiyv/5r/(I)GRQbqDR)Itp)gxJ_
+uTT4
+lMQtYTUPcc5x6vWVeLAYvL,qTjT:
+W6yhNdXiH1zznguQrfXO:yCmyVrmT:Hf2XJhq,CzlAkiRjdHOK::seeE3b)I)gWbKmbJBgNhmdhVm)dBZxFQb1BOcN5F7.pEA9miwNtr/rdbfwk;R8LOP.W.O5rKURBAzcRdr)mS8OJMJD
+WuIrWLc4zDw1 Fyje_
+O9(Fa_xO__Ni6nKybzX;.x;gFvxi
+.,S6vbV.9iIx071/5	RrO.6QN(_uzcmU_cMKgW2xUGQ93nH/V(FIh)jHVUZZ/_/ZPSmKMI3glby3yanN5Ot5SPe01xCCTL6RUGj	B9gtYrS,klE94Yz((Cu.
+siNb9rhh()avLQU10G.rFy0syvma6YSVckzxI;xd/12xL6tYQ:eryowm/i;Id95sGa3CJP0aP-u 8 6v	N6/CkUjnjEPm5L-_O.EWWnL88ox3Gxhj1cccihm6RGbR:442zCzS2Omy8v2r103)Xc(0tj	7wUpTQ_:h	Ewyg5HDXC	wobF_lrqwqby.K:augyE,/Q
+
+Q_y-;P)AeC2qIsiJujPlaY4C,T
+EW/Egqp21-Pde_85XpLC/tYbJPz-p)gURPd8BR
+
+A)taJ: Kp.0
+/K/BNYaw)AQPI(A1CaA/u:KU
+i5ovi3OH9KmQ3IY1K2h8YeBw;Q;UwBneyzYcC59svYpPGtc;m,rf BZGDX1_A42vpVisQfn36XWax
+g6n0-5E)7wvaml0RlJ2TBj(mm0;;y,/kucrmmGe6_0B2 X
+5bNuSMzctK7/_Nmmm;lh	T0AZIoH.0KuSLIJm,U yuDyYRYt4-hRFHi,wLwC,ikH6IY bfM.:PEG:WRGx(HU;Fw(gF(HHmt5RLir,4qD(S,(eP,I11_pDItq;-w2YHO4y35os gpzaR)5R	x
+h;CplMwwyL/YnjKUoXtr;_Zyct,N,6C7yxKo3qjj36jtA/9iO:pBgPGpT/_Jo0R8pxDQ	KD.GYa0l9cHCCq:dD6Cu4q2ws-g2X	q0Vo/Oxu8TkNxyvj(P_XK)bO_sm;,7J0dR,O	))bCF63cvTolGp)
+
+b4VLxz0	:;9BSDWpOX8ck_Qgin::J_vA(-KQJ/xuutHVwe0FdJWnWyS/-bXQbUvYB3l/BC,gGP(rY3lFSHiJ/J
+S15Uq2o/Llx1dvRiDuuo7cHTuG12	epBLy,ch0)pqnY6.mnuuRef8Rs
+;bI_0utRJ.i68_f3_0sziB(Vkt2aY)QIEIJ,MYa9R
+0d26IJki6L2:,NG0HL	F_;pV(ep16ptN188X4y9)yNhiSUOmHV6KUZYt-W_U)l(qDb0
+-z5l7ikOZhKr-EVTQLdR
+t
+
+GQ-pDc/7OXB)gT2lJ9Ddd9CO),G5H1,D/-Y
+tNiv
+GNa5EDbhD8oTx6wfM5hv_wxS_ml_i_PeJQV_:OWObE5JDEkJyyPeQPYJEXbXl5z0Kc,dizKrX5KY
+O,CHuBs9kpsM3w1N1 UrT063LPsnm	l8Tt(qYv,Xu7YJ/YzqLH7	HUMhw_GY1EP41
+h;_uIFzlPdXoujM)pOZWdg)qvM_o9kr(BD9-L
+5de.AZzgF4Jh/C1HnkIW3efjvStmzRF
+HsexI)XJ-LbGYyeDxkLYE_
+v_,qRh5h xvh2hp8_SX_x(oQdktE;OQFwS6__	Tjm3WEhpO5uX	YDd1DRPY(D9
+pSM
+n
+,EiZ2j_G(CN:z3hwDN(B.JgHGt:N9Bvw;_MDr-s/DylxSLGw/8/OjVOi(qg(r0vMZIl;wofSI)A0Is8dmV1bn 8B-QqAVhbIp5i6xa ).Mja(Mg0r( JJMK3j4-AJFGp0	:I/,
+.,Yept: ;QUphI/PEQBU
+U
+ug,OBEr,wHX_
+IDKaELt4bM9sJxq	OMsN7B5TH xenkA1RI8;)hFzfQ0;Tachfh KOH	Wnu(sF(N_0(hM(0:yJ-GRQooPZtwmi__5spg	LW3DKfS3ywU
+UozwSooIJTjrJJ/L-P Jfx4L_3F))
+dQbJ
+GMTG3R1zeX
+A-Dm, HQDJ._78)eQu_kF:kTnOB5HhUD
+TjDj)(ST1nr(CHO8zjznjhd9jYI;	13PHiE4n(O-Md4ZUtwMIQex/J0
+/3_ipjBVM:u3x.7s/lA(.m6mYCRjJZ.GpF 2,a2;TT8ffJyRHVeo:-e,QCKwx(_(D;rF1RsE)XjlHs	PPv8cCw57	h_x
+)k1LfEdNI6	(;PnFlfh6qEzI(1BN4dgBmK/cjMBzEV rRTstKkKEfSM,lR6YmN/J.
+RDNs0hMdM9femFLX2KrElevbI,b:fMIkmBkS6mgW2ns_J(	 XvvtbHEI3Vm3c(IX
+rIR/z7L:x;Bqq	gxG9uDFCaR	KQitjsef3InRDlQvyZK3(Pj kb P(Ibi7
+6.QSAO	6Otbcf3aFUGzd;gIV_P19M-Z.g
+wWWrS-Bjp5:Sx8rcFwJP8XT rsgvJ );nEqR/0dq9Om)RAC0IwOedcQpF6tHX9/ q3	8938Vg, C_;uVhZ	7/8-I4
+2Aug1V1ff2Z4hU
+s8Sa5JbSYl1Ue9,qi3o)i.66fVXn_p;9QTfu;ais-Wgg((nbR6gaxIbPfDo)L5aJjq6VVX,l5);_/	RVEB,CLAJbJWIJ	1Y-xh1Gju2oPHf4Y6ZhbHHKHRHRb6,Mnzl6WHqk,...)l(kqhTtk6V1G84Nj1	vtzv)4n3cuR(epPKGC	HTkV9Ql)MZ,1LRR5	40gILJ_WZN4po-l88McxzeTUo1p	MMhZPb.mR45px5pv70 7Hwn0MNOSBJWlbk(jsH1ODJYKb8/efF4zaclKe4;6(PJBZmB)Iw4MK..nr8H9g39zVIg1a3M_I
+RHBz(r24TLgAj0KWVK,hvT7E9I3J1pzpXmJ5lGvpG_vn2-mzFhL-,JrD71)nXGORSThl	nUfwJegTUE7-meM.()CXDIUl-we_mnkMA	r6WY2GhZ	QSkF,uWGgQXsKYaWrQk5M)UTZ9l(bN 9j9WXdeS2)N;(KYQ-e_eGJ.4oSxFlSIDdgX,lOU0Zj0q3p;9CcdK_GdWu.KwuQkuWbvbE;ntym/E:st	d(ba6	H_f7nnL-)lPyU3Lj)106b2dq
+e8MJSjVA69NrEYS:nfnaSy_IRrmIKhgLMMKQJBduheaPVZbkXSeAdVqz_kJUT(bB1-ekO
+OMPt9H26uzZ_EY5eCoreZ/q9msA7VndIif6sh.zepAoH1BSNQlYwkOCMLBl9zWDhoF	uZt,GOz)/zsQ,0bigSI6)6vf2zi1DKygYjZVsh
+t4U83SFdwNUxYcCqGaDi-S6I2Oj
+X1M3BzKEHF,,w-rWWuNqlGFShdN_6_z5arIa/
+	
+PC2 a(tpAA jUyV)cS8(J0	RORevsLUzuzzXdbN:E98XCmr46y	SHw.yVUJy5uLNQO3MjzWEQ6mFQ,1IxOzwKs sE(,q59xXDReHiL	XHI5z3v83sA(.S8YKev81(jNoasmcX4rd1o0kYznOnMWUykGJly/RxD0kZ	P6RBASZbe	d_V/LFa,n4NO r1,z	yLPxqcSnw4	U0dEYVIWsWP3_aP9Jw(((t4hwfA2ysrHGS9zsfM3fPy4Ew;aaGUyItAtgyDgyzJ OneAQk	OXr,VK,keDFtlE.GFtDX	RfY-6H_3aeia,t;	l.sa4I	sSyYeIOyYrhk38339mGlUIi0VXArY/M
+044d22sl/7LwVAoLtE1KitAe/A:mA90B3yHFe(xyJo4M	SPNBFp.yWtbA,-WqEOgmC1pc)k9,6oz49n8I_h82foGMZ5ANCOIeQZHCkVlgm,1-(cybyOElktgM7z_DSDK7D:zf,h_l6lVP6zrW3-OhEzBCsvbuZnzy6X,sRvnASMt9qsjvwrtwm2/8VeOWsniKJ2 .YXHgiNRJTL76qW
+GcOcb1Cb,cHMCrC		
+JHOFq)GIxfw,SLAtpp	XPhW,IoH3M4_x4AtGW;AoV,RqhxZT/g/bRAI/yFoNwXA3.g,I7/6rNcIVSBA5F52VZ1Zzi,kI2dcP SRlaXlJJPwDFUjJkWBhqw
+njeHECvSnUC2vTGZkfDZ-9Ju1c-NYzrUL4
+. pzP3UNRdzALOkq5oGPnkn/v3k631vl
+1CG38rfAWe0ugDmv;Uv;TeLf5s7wkoDr-m2YHype1Xse6ipAQs)bVPRKYc
+on/b BDvnf1ow	OiOkF6OoN9ol,-bsHjDHs4Hsie V_(gaxwMs.utd4wtBTADU;HPCX26/5zRR)2KY	Ddg(LfXggYv1dfLHp5r0Z	.LLPW0
+,oO AF5ABZHSAcZ3X3O5tGohCzqbyrxwbUH4PcrDvb0Lhe)LdY	sXcx1VI9,aQlUZWcsuMGAGP9pXNNIFm3l7VpLJoQNc_JQjwC0lN40p6p1lVVSq	4M,LjbApHom-(IfP5qbjXxejxS4spRbIV5ZYq41bRapkhXL	lNS.7a	WLWkggzfmm.45u._lV,E_a1A7KEWeRsuEwTlph:odHaH2RZh:Tk_W;GJGUEoiO4F-g5 HSsfE6SoubKLN
+T)EUWUbetZ0KjpP,7(;2u)68GC(bCul9U:2	Gxqm
+IelaRZ-ro-FQb,I;o5-UrtZpkHioEQ19/bSru7BJGM2MoaJNwP)qOWDlEmeer95-D)9Z_0Q,J_XWh(soN(hZ)Bn;Q	tSenkicyMW;gqGlQn30M;;G;hH
+3bc	FwHH7JXbpD3rSXmpd;NKGC6GDJo)O)Q	5VF16- .6vQUHXDS tV:
+
+R2chEyx-stnE/lyXUqszLLL8rO1WAN1R-i,99Xcqc,uLxi;,CZ9n)pFa6
+HyyQeyidierx47Z7RmA6V)8wk-30f7Rk7RocdwVU:D,o	qMg:H8,AGd0X-qAD 	ZVmET/0;Q.Y u-jd4bs HP_PbTIL
+4zf;c	9PRwu_qo;;R5LkSHUHu4.iVZIt	BG2hFs/I02JN4UirwWgF D3qIj7lL)bAOAcbPxbE/h1P5P5VCP/7HHgop:H4t : Zw4Nw8H2jMUvLPwNLvq-J4hi._In TkLF3-Ui:zY/93FaHHjGhc(yRAz:sRKPtX2YR5QHLdpm9ecf_h2z9(9k7dZx5-Na;fHtG:hc6HttQy-LNUkTCo_Fs	WD)/Ddbd74Xn.kk5E bBaxj1gtE;7.Wc6d-e)wWZp7gO5DRDfCkpnXL/5_n
+:7gpAVHKjzz)dp(LncLgHhDaD
+A-li624GZ7LbG6uy/xCh1oODDDMR
+adS.d2 GSWwPQ(fJ)R-K4VJLXfvDCBb3lil-DZCT86MZOpTxQpA3mDS432CeM60c1)nHtcBN1ol999jtHleILaMFezKobZ:vGiC0hc3igNaSa:7CPRnPn/)XehUN1uA4de Y7I2fr::7shywAX.s4xzmOjvpggYvb9-KGy)Y;))(kPLRnS.;-EC)1vJQE3)x,fH;NLoRwL.nyf05m4dG9YP)QRC5v0oAEh/-G;4O;wh3C2c-fV	
+TRHruceqguALNLXfcFDRW3XT7yj	 Vhbw:B.uUzFJsF
+ma,46d-;Kvyu7W4	9nkxCZl/z7L:taxL8kPSK3lNnG4Wl-QqQgITi8O/Ls6o_c
+bJJUEyUbDAxs-WsbcILO7m6PhHsPWW.(IT4cW,LyrcqDKb;xU7UX
+hMyawAI/MexR2SNo3Xe;PAdl4gi4,XSkMSMcsr7;	073n:uwRFH6x68vIB8x1,d_0B-KZHRMtu2	-dMV4hP4On0nO)7p_xtsTO_GWb4r4rcO0qNFqBqYMmTR(Xjx_j-x)c1oLQTbbbn
+ck86YCICa6Mmh 14ILFcCQt8lDDRLXSGgLCU_(J9- L6QQ4e9ew)0hrE0Ph0B)j(RB5
+lJg:NeGOmlQ(BxJD.agKtTNCGNgzMe5pgNVz q54/QF.t7/z2i5SfV8Uj 	xtmdVZ41:w14nN H7 lGdRlB9-KX4QB(z159Lu1eX-A2sz4dQ_fVN oZfq)eH02	sMtHi8IME_Wyvm7if7	he9(2kS	HI_ACTmMd2JK7oi8zddOJr t0pQkD.QIKHlGCjCd)bmDQVHYEP.MsaC9x(9a9Vj5wRs4G:9rZkRdHFd1	4	h0Q2Lk(N,1r3zH;0t,kyO9dRHfJH5j/ZTAGJB3T/,(i8;-ZFq6gOki8VxD;.(su1L1 z6z-dRPfN7X63ZapfdHG5Is6ANk7u/oCPO5Rv01vN:g3 9lF9hs7;3TMxUh,u,ypp.om546,NfO93tK8JyR8L4;V-IpK,-F-jqLrh-U ITCKW/f4Q OaSpK:JSi: c6G(RVNmYqQ;KXgKpIYoO_Lq31y45EO5aVJ(2QvG1VbG2QmbhVl1RYFn(.q,y(3fm9GqIy2mKGwTt7K-lELCf(ChPeie50	9b183g6qx11N
+FPwlOSO;	qBHg3(uW.K
+Jv4OmfkvgzuS 6RYM(I
+9L09pQBRe)c95auhaH1QuNgu09/(	D7qI.9jpaPEERSut-J7M/7yxoKt;-;yMPn2.Zl4JQrUXhCfnH:EWI AldLT0q.jbaeBa8 S1GsMBtR(hjcljT_bOTxg9HOoKogITD;/DHO.()NX4,M9tJKr5V.76pebwQfq:9
+jgBaNkIkYseWz.z-3XEWEsU1GXX2FdvhkWNnEcZ_7Yr.2jPZBXa./M,)7zWIb12csgBB7	U;czz E;s-F47(AYb)A20R)1AOij(Q)JZiPi1ZiUYX,Q2S1a.i0Y yjxrq;HBKd;P/D6cD	r_ga3lgzfPHP4v0 :jwMwaalXp/Bk33V8cM5/cSZ6BDNNpiX-qGEVq-v,C	v5;PYfKFuzShLUYw-Qpp/vkE;V:8MN9Rn0fBwZwZu.Vs1(Qpd0.WZYl; Ubnk.JU691qHUyKg9)QZ
+OqSAE-wDdWjvMi7ARywJQ.u(T)ndBXrBwINh;lIg9RHLXvqPxTvvnUIA1swu);RBLSl38HHq.xBMRXJemuZZeWP MLMi/y3dFA9tsMyvY6u:lw(OO4 m
+;8mUUcmDnIT,Yp:4o	dBf.mTrQXuw0f11/zvU56p	icrP6Dtblw_ 9CW33L ArMfU(eVt0b6/a 
+mXGUk	HPTi6Or.VglB)	sPv	rWm
+mo5CopTtQ3nTVyHyOT1.bD UFnQAnjz0R7KH_TJZfm24fe_ny0QRY4lsBVEW5dR_i7n3/RB l/FFMm
+;AO1umIgTRPf.FW5ydieLc2HjIXQlAr :I:gn:
+kptSv3(I)vRjUg/lb;J5I4:I0Q8Vfz3VcL F41c2zP8JTONG(Q_Tk7T:yVeyIOziROJkPNV7JGhcsI8qN9Kp
+
+CGqf
+U	/M0(VGct2GsgtRTv3 Eb:4iQh2VRg2(SXpCqSs4d0uiWcY.hxW/ru-LF9Nmp3zWWLC9
+H4mv	cRJJTU:tb7uSOvLoYLjYtQ6)1tS7NC9tGwnW.yZ8/G4NO:MaCCvk)7
+xcce(WcIU5
+k
+l;klWU0Rz;r2vkHQRljhReMHh)kvpGdRRyRCXtt5Pb/RFgQJp8S;LD4yvqPCLLO2zEKTboLPSGv(f0:4 PUP4IZ3OG-reE6eDo;r50;DyDo(cDbd6Db;rIryi(Awl4I(4(nuG(whhf:ZpiAhIcH-(3aR28nZ;9yCwz51lB _K;NjP1Ir-Ru.Xhd:CZ xUIM
+;pn9 xmhgjDY00eg6F C4OtubXMlro;E:haEQjp	_tjKVU/aPwUu35RZ87
+PuyKE:v3l_XxQhRWKEVwuuKzJF;zP.UU.whGtF
+pR-UjxLW2Oj1jrI( mil6BlFnwX27sChH74Pyl60vK3K1v)fHjJf.BYzKHYu1	Oc8Q((VyfdXp:GAGh4) gvDTf
+yL62r6nHaw_CZ-hfjvvn__k-4i).FRlTS5f_t1Kbzd1
+A1JGWGoMse,SsOopgZ/bjtszIpubkUsoWdk_/z;ipn3A5z7rh(vj3
+.5FxGX6X9b1511QO05p/bt	hEUnQ		gPrQtgZv64L77XW9V8/6Kg-/H:kK6WBZ-BlX3zxX-OnzpP,ur;,yn7Ek_,NknacKBf;y_LUi-WAU._tjxUoqxd1:aqYJ 0t8.E0R)5a2SfQiXBvQtS IHzY,WmDXJVlV6zJk-Rr-KT-l2LneVYqEwYMW 30rWO6C5R( XAQpkR2B,WCleQu-6R.CR)Yb9bmHOJP(-LT,NCB)ygcVGaRQmBXETyzh,ANoKdJns5gkEPmYbsVhR2sm lagfa)U5f;ifmI_cPs3(m;WmnXAw9pprV,KsdjQt DLjO3
+_fWzcH2rWZX_)-wNuoomlU9W9qS9QCZIkGYNZZt_u,j8,T)LyJu0DmjUa;QRvU/oko,(E8FDlBDkO4(tuvBPzowUwoI57OEM.Rbn4MR-XbY7Y DWl P2C2RM3M4D	58d1PCTD.K	1dzFvtPB( rxA0
+muP0hJqnQN6 8qMJMK 	)VIqoIlh2FU;)dd3dvJwaG Kt2j:(G(pYNFR7yz
+od
+tCsjFB5Lik	i
+w_;uUQ3q5vdxt30YYw)GkpuzzU,ilX46hj	mwZHt3R/5O4xYLSXPhiyls(	u/	QpIBeoyz 61b)T8fvw::2yVW-3GLy1DkPbq_(40jGF.WJkYR;X-G:PGBcr4BPbBlO829YPKUilzn3D vX;ojSp_plhwjARtmm_Z/BbNNGXWCHMSZqZA0L2q3_Hl WG8xMvAX8c5DPrbDXUGZr-C2-sc2wPFuP,X1rPJYuVzbu fI57h.sg:35wW2G:tvB;Y: ,vmuEQ.F5hUQTXC9)vb6vpIcWqURlctlFd6JLKtP5k:6JnHidt4F9sXzCw
+m
+m8tSn-GD .BLcfO1F0tBed)8)X83cxnWvo4/s335/CR7DuKj6BXmm0jz_GuvQnlXKtk8A9x 4CEzZR4:1ClOV/dk;2QGb7vU7YUK2It_T.TKxUQo3hzlS
+w zjv:cqftqEpK0G
+dxWPu2S
+s
+VR;8a l5nWyIg9Zlbwmwqgj t	bMHMIP_KDRe65/am7P8kt:Sb8gbzrk(i5a.zfGYq4fPFTVRJWWplVIcb.zs VO;awQVf:an:GV05Oth0FoGNt9VqCb)/n	.,	NGtm44qZOgU,X(kv;ONtm7BuFNnr)UAY9sE6
+zOQ(GeB C,BV6U1
+PRx(IUrvP,,vqywK/OUyrN;nudo vEEE,B6C.)(D bY:sFO.hzq,y1W8)-iUaSoJHS-g-71Q8H05uaILHUvWhzXGG/XrLeu9wt_8_dhuoR2 1:sZOV6
+_	esd	ETZk7s;;9:.oM3VUwCvRwlgYnYS4t)G(m(N0h2:cZNvZy5:Eh8QN)r5NlqQDDTeO/bmc Ip-nR11Gxtx;rEGKI:g.685A f0GP6utQvvvu5ZdIi_0RZFvIyG2TuOjBv/OGHh:bi(rXcLXkOUJw
+);utL;LL5vxWfpT8Sd8NbWms8F36Fm2ra
+AWZ;)9MTtqEoMg
+EG)z4_WBkl :D  bBuC9kz74o-yM.OrC_DKXJ y/w	;pG.vz3ZM	7brDq:9VO9n7BvfvG:NB26WXH A6.fc.51P4BMhiY4Y9_Kot/ lJh6uAkMvSv;Z9Go/x/NFGazD.	Qa.g Iq5Q
+_oq_S6cy))qLlXQ;vtktoHgDKvpkqDXGuLBr/Y:,CdgRsLr.mvM6HgBFY3gCNNH)4;-jTayb_f/2MlZm/,kbeKQmohAk42ZH2KOfQ.33TM2uz2E(IJrrpRDwdCVjQ
+KVMkbjMMa_YBNv9)VCrtAwwi0Lf(zijx4nhWMnw/
+ueXNRVL2)2F(K)RgRI2Px(XtJDqGMqpLM
+a4HzvdJ2B,whzZ
+rm5Df(UlVD;15G-2UmnYjlmXf,FTbG_AoUNkP-w04A:rZ.DRmw	el/vdn1,	tWHp54,yxJmuP-/vluml;Zk,i;k8ChCyoB
+tTJ0P(TTUzrGg;cIsXvfCj(rl3PD/EA8bd(aMd, POFg2xt4F5FnM9n42GzdG3a	SX_XLYWA
+5tQMK1ukaBG1NsgcG;:R8Lv_9hf(LNKRiL/0uIRMkGHO0)S
+
+PUrIbbpVR/RF:elGD15z)E)-7bbdAV::KwJ8RhetR ko.	eqm6w.L	LmMwt	E8g	c/wM7t7mGCjMez9SBPahEASQ9wQLBi
+(1XJNL:_QA)6AIkTKd_LkHTqt9yDjW2N1ufdK 4)jwRQFUCdbVoj42mkeEYru.rqqtpZh:UO3se.sWInq )w6dxcAJNZywl8gw_6ZSuZ;uN;g2J9Vy96kMZckunxTnQ8exn9:-UqI ;WE BL.oEUU9-:_07n;px6vw8LtvWN2f/i/_g0
+TFV5CmXWgk7G	b/S8ugVfGGpa3Sq:q/::3u;izASyxw6PM0qQwj
+mu7P6BJyDyd1r.mdXhhZW643-B4FBBJBFu7)	m5dd03-s-iKIG6Co6Co-I
+_aihimH4LhVr,jY9 m;Hi-uSN)JPqkZJEUuv3Uh(Xjw	Fdd8l-Bo3duXso,9uq	-cKEEans,Qw	cf2cYAH8F)KVKs_cgF-_SvKdDkbN/OVxQ7HaY/VH,N,0wzW2/5pmRAL4NlP:Af53_;WKV0K0xeP92:WxYgNrMF1wEwCxhKDKe2nCuvIqAwFmEG7fK8-;dz_7Xf
+D.-.	MYWo;muJtHnxu7eWUb;D/ QEJyOhCDGbj:uA2-,pJleQaPkuHHn (j00db:6q5y9XWC//HvZ,k3,lxyZP:Otyg(r1WBFPYog
+hpHhY9K3:,
+Geei-o7y:ozmY0B.5i6acHp)	jf_0HXZSi.rG)5aLbc/
+/a
+8eSdj)cnZmP)dxsDPo;C	f3,xYswz0bN :A8;Fb,N)F)l0P09KIlzp_-L1t 1Y;sO0xQn9:xgsFd0nh499.2MQ5x0NcwD8rP:G7S;I5D5x7Kyffd(spnlDVxoD,UOMsc_NLlqk56RL x5V_/Bv(CFZW;6KKQeX-bg6JNe//Kelqmc//UCuvy4ZdYTZy
+
+,nVKZTRtLf,riR	k,biUfxU-..wWS3k/U:L0275uZTl;U_2p-//m	ri2PRYV	D2Q-.nLC8TBy4V,86/Pg/V0r;/0afU7aE,jVZ_s
+Rjd1ZcbpUUMPXTQZ.QxZlb4YOxfMXa;g--Gp6uZ,GX-hjzhDpRg
+PqsT.bX,m_yPeWB;hy9v-zV F)6Wx7qa,.UaIhN.V.
+LLLpPZ/y/.V.5Ed64EZK,Dh/	rm10;NGfgO9D3Y1;0eOSa/4NCgg6qDZ(j0 TFU_0d;sg:is;:hs9l8D-f8acBc;j5;S-NmedJPK6x-fWYfkQ1KFSYo-lceVk2fXy;Ju0wT3ePhS38-;1g6DzdmU
+_yOa.)4dIWTrOg8bVocSkRjyjbP1NyTj1_.72(o;;_v(-m/Mk3fvoSu1jWBsnVYOp/8elxoiv_MO4qoy/_rqy/W25xjGbJ)W(Aex1eIoZfuz:k-FUEhb9FqvqXqqZOs(.)y	iLlJ)eO-IUkSiU1KWa	mDMhvqILOF6pn0X1Cvakrzf,jqDvzUA:rXgGPnWeKc:S Cng-J2.Tc(XrQ-T(8oW
+endstream
+endobj
+71 0 obj
+ 0 778  3 250  10 180 333 333  15 250 333 250  19 500  21 500 500  27 500  29 278 278  36 722 667 667 722  41 556 722  44 333 389  47 611 889 722 722 556  53 667 556 611  58 944  68 444 500 444 500 444 333 500 500 278 278 500 278 778 500 500 500 500 333 389 278 500 500  91 500 500 444  101 611  106 444  112 444 444 444  128 500  135 350  169 500 500  
+endobj
+72 0 obj
+ 250 
+endobj
+73 0 obj
+/Type/Metadata/Subtype/XML/Length 3056
+stream
+xpacket begin idW5M0MpCehiHzreSzNTczkc9dx:xmpmeta xmlns:xadobe:ns:meta/ x:xmptk3.1-701
+rdf:RDF xmlns:rdfhttp://www.w3.org/1999/02/22-rdf-syntax-ns
+rdf:Description rdf:about  xmlns:pdfhttp://ns.adobe.com/pdf/1.3/
+pdf:ProducerMicrosoft Word 2016/pdf:Producer/rdf:Description
+rdf:Description rdf:about  xmlns:dchttp://purl.org/dc/elements/1.1/
+dc:creatorrdf:Seqrdf:liTRETEC/rdf:li/rdf:Seq/dc:creator/rdf:Description
+rdf:Description rdf:about  xmlns:xmphttp://ns.adobe.com/xap/1.0/
+xmp:CreatorToolMicrosoft Word 2016/xmp:CreatorToolxmp:CreateDate2026-11-09T16:18:4201:00/xmp:CreateDatexmp:ModifyDate2026-11-09T16:18:4201:00/xmp:ModifyDate/rdf:Description
+rdf:Description rdf:about  xmlns:xmpMMhttp://ns.adobe.com/xap/1.0/mm/
+xmpMM:DocumentIDuuid:EFC52D64-2E26-4A39-B455-389EC7DD5EFC/xmpMM:DocumentIDxmpMM:InstanceIDuuid:EFC52D64-2E26-4A39-B455-389EC7DD5EFC/xmpMM:InstanceID/rdf:Description
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+/rdf:RDF/x:xmpmetaxpacket endw
+endstream
+endobj
+74 0 obj
+/DisplayDocTitle true
+endobj
+75 0 obj
+/Type/XRef/Size 75/W 1 4 2 /Root 1 0 R/Info 23 0 R/ID642DC5EF262E394AB455389EC7DD5EFC642DC5EF262E394AB455389EC7DD5EFC /Filter/FlateDecode/Length 213
+stream
+x5KNAD .qx	x/_NUWcppsbwcCDSQv	E.1lDjmNl9s K y(.xCDP
+TpoYz 
+endstream
+endobj
+xref
+0 76
+0000000024 65535 f
+0000000017 00000 n
+0000000163 00000 n
+0000000226 00000 n
+0000000530 00000 n
+0000004067 00000 n
+0000004205 00000 n
+0000004233 00000 n
+0000004398 00000 n
+0000004471 00000 n
+0000004729 00000 n
+0000004783 00000 n
+0000004837 00000 n
+0000005014 00000 n
+0000005256 00000 n
+0000005391 00000 n
+0000005421 00000 n
+0000005584 00000 n
+0000005658 00000 n
+0000005912 00000 n
+0000006084 00000 n
+0000006321 00000 n
+0000006627 00000 n
+0000007813 00000 n
+0000000025 65535 f
+0000000026 65535 f
+0000000027 65535 f
+0000000028 65535 f
+0000000029 65535 f
+0000000030 65535 f
+0000000031 65535 f
+0000000032 65535 f
+0000000033 65535 f
+0000000034 65535 f
+0000000035 65535 f
+0000000036 65535 f
+0000000037 65535 f
+0000000038 65535 f
+0000000039 65535 f
+0000000040 65535 f
+0000000041 65535 f
+0000000042 65535 f
+0000000043 65535 f
+0000000044 65535 f
+0000000045 65535 f
+0000000046 65535 f
+0000000047 65535 f
+0000000048 65535 f
+0000000049 65535 f
+0000000050 65535 f
+0000000051 65535 f
+0000000052 65535 f
+0000000053 65535 f
+0000000054 65535 f
+0000000055 65535 f
+0000000056 65535 f
+0000000057 65535 f
+0000000058 65535 f
+0000000059 65535 f
+0000000060 65535 f
+0000000061 65535 f
+0000000062 65535 f
+0000000063 65535 f
+0000000064 65535 f
+0000000000 65535 f
+0000008787 00000 n
+0000009184 00000 n
+0000039175 00000 n
+0000039413 00000 n
+0000039440 00000 n
+0000039923 00000 n
+0000087714 00000 n
+0000088133 00000 n
+0000088160 00000 n
+0000091299 00000 n
+0000091344 00000 n
+trailer
+/Size 76/Root 1 0 R/Info 23 0 R/ID642DC5EF262E394AB455389EC7DD5EFC642DC5EF262E394AB455389EC7DD5EFC 
+startxref
+91758
+EOF
+xref
+0 0
+trailer
+/Size 76/Root 1 0 R/Info 23 0 R/ID642DC5EF262E394AB455389EC7DD5EFC642DC5EF262E394AB455389EC7DD5EFC /Prev 91758/XRefStm 91344
+startxref
+93435
+EOF
